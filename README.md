@@ -4,6 +4,8 @@ This is a simple file
 
 ## Introduction
 
+This is an introduction training to Git
+
 ## Purpose
 
 trying to use the diff
