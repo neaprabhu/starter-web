@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+	Jason	Taylor	jasont@yahoo.com
     <name> -- <role> -- <twitter>
 
 # THANKS
