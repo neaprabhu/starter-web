@@ -9,3 +9,7 @@ This is a simple file
 trying to use the diff
 
 ## How To Contribute
+
+### Copyright
+
+2014 Git.training
