@@ -8,6 +8,7 @@
 # THANKS
 
 	Thanks to all my students
+	Please review this course if you liked it
     <name>
 
 # TECHNOLOGY COLOPHON
